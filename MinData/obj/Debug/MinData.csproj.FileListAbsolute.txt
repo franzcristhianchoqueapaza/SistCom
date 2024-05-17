@@ -1,0 +1,14 @@
+C:\Users\FRANZ\source\repos\MinData\MinData\bin\Debug\MinData.exe.config
+C:\Users\FRANZ\source\repos\MinData\MinData\bin\Debug\MinData.exe
+C:\Users\FRANZ\source\repos\MinData\MinData\bin\Debug\MinData.pdb
+C:\Users\FRANZ\source\repos\MinData\MinData\obj\Debug\MinData.csproj.AssemblyReference.cache
+C:\Users\FRANZ\source\repos\MinData\MinData\obj\Debug\MinData.Inicio.resources
+C:\Users\FRANZ\source\repos\MinData\MinData\obj\Debug\MinData.Properties.Resources.resources
+C:\Users\FRANZ\source\repos\MinData\MinData\obj\Debug\MinData.csproj.GenerateResource.cache
+C:\Users\FRANZ\source\repos\MinData\MinData\obj\Debug\MinData.csproj.CoreCompileInputs.cache
+C:\Users\FRANZ\source\repos\MinData\MinData\obj\Debug\MinData.exe
+C:\Users\FRANZ\source\repos\MinData\MinData\obj\Debug\MinData.pdb
+C:\Users\FRANZ\source\repos\MinData\MinData\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\FRANZ\source\repos\MinData\MinData\obj\Debug\MinData.frmRegistroPesaje.resources
+C:\Users\FRANZ\source\repos\MinData\MinData\obj\Debug\MinData.csproj.Up2Date
+C:\Users\FRANZ\source\repos\MinData\MinData\bin\Debug\MaterialSkin.dll
